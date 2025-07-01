@@ -1,4 +1,5 @@
-# 🛍️ Karma Shop - NextJS E-commerce Template
+# 🛍️ Sport Shop - NextJS E-commerce Template Free
+#DEMO: https://template-shop-nextjs-free.vercel.app/
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.3.4-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.1.0-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
