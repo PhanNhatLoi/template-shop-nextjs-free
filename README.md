@@ -32,8 +32,8 @@ A modern, responsive e-commerce website template built with Next.js 15, React 19
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/karma-shop-nextjs.git
-   cd karma-shop-nextjs
+   git clone https://github.com/PhanNhatLoi/template-shop-nextjs-free.git
+   cd <your resource>
    ```
 
 2. **Install dependencies**
